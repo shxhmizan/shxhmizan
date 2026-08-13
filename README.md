@@ -79,127 +79,277 @@
 
 ---
 
-## `shahmizan@github:~$ cat about.txt`
-
-> Computer Science student passionate about building technology, exploring artificial intelligence, and turning ideas into practical solutions.
-
-I'm currently pursuing a **Bachelor of Computer Science (Honours)** and enjoy working on projects involving **AI, web development, software engineering, and emerging technologies**.
-
----
-
-## `shahmizan@github:~$ ls skills/`
+## 🖥️ `$ whoami`
 
 ```text
-LANGUAGES
-├── Python
-├── JavaScript
-├── Java
-├── PHP
-└── SQL
-
-WEB
-├── React
-├── Vite
-├── Tailwind CSS
-├── Node.js
-└── Laravel
-
-AI / DATA
-├── Artificial Intelligence
-├── Machine Learning
-├── Generative AI
-├── Agentic AI
-└── Bibliometric Analysis
-
-DATABASE / CLOUD
-├── MySQL
-├── Firebase
-├── Supabase
-└── Cloud Services
-
-TOOLS
-├── Git
-├── GitHub
-├── VS Code
-└── Linux
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   ███████╗██╗  ██╗ █████╗ ██╗  ██╗███╗   ███╗██╗███████╗   │
+│   ██╔════╝██║  ██║██╔══██╗██║  ██║████╗ ████║██║╚══███╔╝   │
+│   ███████╗███████║███████║███████║██╔████╔██║██║  ███╔╝    │
+│   ╚════██║██╔══██║██╔══██║██╔══██║██║╚██╔╝██║██║ ███╔╝     │
+│   ███████║██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║██║███████╗   │
+│   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚══════╝   │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  Name        : Shahmizan Nordin                              │
+│  Role        : Computer Science Student                      │
+│  Location    : Perak, Malaysia                               │
+│  Education   : Bachelor of Computer Science (Honours)        │
+│                                                              │
+│  Interests   : Artificial Intelligence                       │
+│                Agentic AI                                    │
+│                Full-Stack Development                         │
+│                Machine Learning                               │
+│                Blockchain & Web3                              │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `shahmizan@github:~$ ls projects/`
+## 👨‍💻 About Me
 
-### 🤖 Agentic AI Bibliometric Analysis
+I'm a **Computer Science student** interested in building practical software and exploring emerging technologies.
 
-A web-based research system that combines **Agentic AI** and **Model Context Protocol (MCP)** to automate bibliometric analysis and generate research insights.
+I enjoy turning ideas into working prototypes through **personal projects, academic projects, hackathons, and experimentation**.
 
-`Agentic AI` `MCP` `Python` `Web` `Bibliometrics`
 
-### 📍 BantuNow
+# 🧰 Tech Stack
 
-A hyperlocal task-matching platform designed to connect people who need help with nearby individuals who can provide assistance.
+### 💻 Languages
 
-`React` `Vite` `Firebase` `Gemini AI` `Leaflet`
+<div align="center">
 
-### 🚗 SapuJerr
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,php,html,css,sql&perline=8" />
 
-A student-focused e-hailing web application for transportation booking and driver management.
+</div>
+
+### 🌐 Web Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,laravel&perline=6" />
+
+</div>
+
+### 🗄️ Database & Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,mongodb&perline=6" />
+
+</div>
+
+### 🤖 AI / Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn&perline=6" />
+
+</div>
+
+### ☁️ Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma&perline=6" />
+
+</div>
+
+---
+
+# 🧠 Areas of Interest
+
+| Area                       | Technologies / Concepts                   |
+| -------------------------- | ----------------------------------------- |
+| 🤖 Artificial Intelligence | LLMs, Generative AI, Agentic AI           |
+| 🧠 Machine Learning        | Scikit-learn, PyTorch, Data Analysis      |
+| 🔗 Blockchain              | Web3, Smart Contracts, Open Finance       |
+| 🌐 Web Development         | React, Vite, Node.js, PHP                 |
+| 🗄️ Backend                | Firebase, Supabase, MySQL, APIs           |
+| 📊 Data                    | Data Processing, Bibliometrics, Analytics |
+| 🔌 AI Integration          | MCP, RAG, AI Agents                       |
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 BantuNow
+
+**AI-powered hyperlocal task-matching platform**
+
+> Connecting people who need help with people who can complete nearby tasks.
+
+**Tech Stack**
+
+`React` `Vite` `Tailwind CSS` `Firebase` `Gemini AI` `Leaflet`
+
+**Features**
+
+* 📍 Location-based task matching
+* 🤖 AI-assisted task processing
+* 🗺️ Interactive map
+* 🔥 Firebase backend
+* ⚡ Modern React frontend
+
+---
+
+### 📚 Agentic AI Bibliometric Analysis System
+
+**Final Year Project**
+
+> An Agentic AI system using **Model Context Protocol (MCP)** to automate bibliometric analysis.
+
+```text
+Researcher
+    │
+    ▼
+Web Application
+    │
+    ▼
+┌─────────────────────┐
+│      AI AGENT       │
+└──────────┬──────────┘
+           │
+           ▼
+┌─────────────────────┐
+│     MCP SERVER      │
+├─────────────────────┤
+│ Bibliometric Tools  │
+│ Data Processing     │
+│ Analysis Tools      │
+└──────────┬──────────┘
+           │
+           ▼
+   Research Insights
+```
+
+**Focus**
+
+`Agentic AI` `LLM` `MCP` `Bibliometrics` `Data Analysis` `Research Automation`
+
+---
+
+### 🚕 SapuJerr
+
+**E-Hailing Web Application**
+
+Built as an academic project using:
 
 `Java` `JSP` `Servlets` `MVC` `Mapbox`
 
+Features:
+
+* Student authentication
+* Driver authentication
+* Ride booking
+* Price estimation
+* Location visualization
+* Heatmap
+
+---
+
 ### 💰 AI Financial Assistant
 
-An AI-powered financial assistant concept combining intelligent financial insights, voice interaction, receipt OCR, and location-based spending analysis.
+An AI-powered financial management concept designed to help users understand and manage their spending.
 
-`AI` `FinTech` `OCR` `Voice AI`
+Potential features:
 
----
-
-## `shahmizan@github:~$ cat achievements.txt`
-
-```text
-🏆 Champion
-   Application Prototype Competition
-   Dewan Belia Perak
-
-🏆 Top 30 Finalist
-   PayHack 2024
-
-🏆 Winner — Lindy AI Track
-   CURSOR × Anthropic Hackathon
-
-🚀 Participant
-   KitaHack 2026
-
-💳 Selected Participant
-   FinHack 2026 — TNG Digital
-```
+* 🎙️ Voice input
+* 🧾 Receipt OCR
+* 🤖 AI financial assistant
+* 📊 Spending analysis
+* 📍 Location-based insights
+* 🔌 Banking API integration
 
 ---
 
-## `shahmizan@github:~$ connect`
+# 🏆 Achievements
 
-<p align="center">
-  <a href="https://github.com/shxhmizan">
-    <img src="https://img.shields.io/badge/GitHub-shxhmizan-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/mshahmizann/">
-    <img src="https://img.shields.io/badge/LinkedIn-Shahmizan_Nordin-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+<div align="center">
 
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│   "Build. Learn. Break. Rebuild. Repeat."  │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+| 🏆 Achievement               | Event                             |
+| ---------------------------- | --------------------------------- |
+| 🥇 **Champion**              | Application Prototype Competition |
+| 🏅 **Top 30 Finalist**       | PayHack 2024                      |
+| 🏆 **Lindy AI Track Winner** | CURSOR × ANTHROPIC Hackathon      |
+| 🚀 **Participant**           | KitaHack 2026                     |
+| 💳 **Selected Participant**  | FinHack 2026 — TNG Digital        |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shxhmizan&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxhmizan&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shxhmizan&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views">
-</p>
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shxhmizan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxhmizan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shxhmizan&theme=tokyonight&hide_border=true&border_radius=10" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shxhmizan&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+### Watch the snake eat my contributions 🐍
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg">
+  <img alt="github contribution snake animation" src="./output/github-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/shxhmizan">
+<img src="https://img.shields.io/badge/GitHub-shxhmizan-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mshahmizann/">
+<img src="https://img.shields.io/badge/LinkedIn-Shahmizan%20Nordin-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ `Code • Build • Experiment • Learn`
+
+<img src="https://komarev.com/ghpvc/?username=shxhmizan&label=Profile%20Views&color=blue&style=flat-square" />
+
+</div>
