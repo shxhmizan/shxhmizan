@@ -1,6 +1,32 @@
 
 
-# 📊 GitHub Statistics
+<h1 align="center">Hi, I'm Shahmizan Nordin 👋</h1>
+
+<p align="center">
+  I build practical web, mobile, and data-driven applications—especially products that make everyday services easier to use.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mshahmizann/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/shxhmizan?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories"></a>
+</p>
+
+## About me
+
+- Building across **TypeScript, JavaScript, Python, Kotlin, and Java**.
+- Interested in product-focused software, data applications, and thoughtful user experiences.
+- Based in Malaysia and always learning through hands-on projects.
+
+## Selected projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [biblioNova](https://github.com/shxhmizan/biblioNova) | A TypeScript project exploring a modern library experience. | TypeScript |
+| [lokalEats](https://github.com/shxhmizan/lokalEats) | A food-focused application. | Python |
+| [KAWALapp](https://github.com/shxhmizan/KAWALapp) | A web application project. | TypeScript |
+| [bantunow](https://github.com/shxhmizan/bantunow) | A mobile application project. | Kotlin |
+
+## GitHub activity
 
 <div align="center">
 
@@ -12,7 +38,7 @@
 
 ---
 
-# 🔥 Contribution Streak
+## Contribution streak
 
 <div align="center">
 
@@ -22,7 +48,7 @@
 
 ---
 
-# 📈 Contribution Activity
+## Contribution activity
 
 <div align="center">
 
@@ -32,11 +58,9 @@
 
 ---
 
-# 🐍 Contribution Snake
+## Contribution snake
 
 <div align="center">
-
-### Watch the snake eat my contributions 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg">
@@ -48,7 +72,7 @@
 
 ---
 
-# 📫 Let's Connect
+## Let's connect
 
 <div align="center">
 
