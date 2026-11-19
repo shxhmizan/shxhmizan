@@ -22,6 +22,8 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [biblioNova](https://github.com/shxhmizan/biblioNova) | A TypeScript project exploring a modern library experience. | TypeScript |
+| [DJAGA](https://github.com/shxhmizan/djaga_codexh) | A multi-agent scam prevention prototype that checks suspicious messages, images, and voice notes and explains its verdicts. | Python, JavaScript |
+| [DataWorks 2026](https://github.com/shxhmizan/dwc26_proj) | A datathon project that compares simulated and observed reservoir production and builds a machine learning model to support forecasting. | Python, Power BI |
 | [lokalEats](https://github.com/shxhmizan/lokalEats) | A food-focused application. | Python |
 | [KAWALapp](https://github.com/shxhmizan/KAWALapp) | A web application project. | TypeScript |
 | [bantunow](https://github.com/shxhmizan/bantunow) | A mobile application project. | Kotlin |
